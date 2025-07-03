@@ -8,12 +8,18 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "scrabble": "^1.0.14"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": ["scrabble", "api", "express", "word-validation"],
+  "keywords": [
+    "scrabble",
+    "api",
+    "express",
+    "word-validation"
+  ],
   "author": "",
   "license": "MIT"
-} 
+}
